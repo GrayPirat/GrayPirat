@@ -21,7 +21,7 @@ Hi 👋 My name is Agafeev Sergey
 
 ### Badges
 
-![Codewars](https://github.r2v.ch/codewars?user=GrayPirat&stroke=COLOR)
+![Codewars](https://github.r2v.ch/codewars?user=GrayPirat&stroke=%23BB432C)
 
 <b>My GitHub Stats</b>
 
