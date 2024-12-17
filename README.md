@@ -1,19 +1,24 @@
 Hi 👋 My name is Agafeev Sergey
 ===============================
 
-3'rd grade student
-------------------
+🎓 Third-year Lobachevsky State University of Nizhny Novgorod (UNN) student  
+⚡ Vice President of the ITMM Student Council  
 
-* 🌍  I'm based in Nizhniy Novgorod
-* ✉️  You can contact me at [s.agafeev@mail.ru](mailto:s.agafeev@mail.ru)
+## My interests
+
+➕ C++ programming  
+🐍 Programming and learning Python  
+📚 Learning new programming languages  
+🤝 Contributing to open-source projects  
+
+## Contact
+📧 You can contact me at [s.agafeev@mail.ru](mailto:s.agafeev@mail.ru)  
 
 ### Skills
-
 
 <p align="left>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
-
 
 ### Socials
 
@@ -21,8 +26,11 @@ Hi 👋 My name is Agafeev Sergey
 
 ### Badges
 
-![Codewars](https://github.r2v.ch/codewars?user=Gray_Pirat&stroke=%23BB432C)
+<b>My Codewars Stats</b>
 
+<img src= "https://www.codewars.com/users/Gray_Pirat/badges/micro" width= "200"/>
+<!--![Codewars](https://github.r2v.ch/codewars?user=Gray_Pirat&stroke=%23BB432C)
+-->
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/GrayPirat"><img src="https://github-readme-stats.vercel.app/api?username=GrayPirat&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="GrayPirat's GitHub stats" /></a>
