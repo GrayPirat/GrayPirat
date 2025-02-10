@@ -2,7 +2,7 @@ Hi 👋 My name is Agafeev Sergey
 ===============================
 
 🎓 Third-year Lobachevsky State University of Nizhny Novgorod (UNN) student  
-⚡ Vice President of the ITMM Student Council  
+⚡ President of the ITMM Student Council  
 
 ## My interests
 
